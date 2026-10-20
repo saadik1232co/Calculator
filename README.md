@@ -71,7 +71,7 @@ A high-precision, multi-module calculator web application built with **Next.js (
 
 ### Project Structure
 ```
-antigravity/
+Calculator/
 ├── __tests__/
 │   └── calculator.test.tsx      # Comprehensive acceptance test suite (Stories S-1 to S-7)
 ├── docs/
@@ -120,11 +120,12 @@ antigravity/
 ## Installation & Setup
 
 1. **Clone or Download ZIP and Unzip**:
-   - Clone the repository or download the ZIP archive and unzip it into your desired folder.
-   - Open your terminal (Git Bash, PowerShell, or Command Prompt) and navigate into the project directory:
+   - Clone the repository:
      ```bash
-     cd antigravity
+     git clone https://github.com/saadik1232co/Calculator.git
+     cd Calculator
      ```
+   - *(Or download the ZIP archive, extract it, and `cd` into the extracted folder).*
 
 2. **Install project dependencies**:
    ```bash
