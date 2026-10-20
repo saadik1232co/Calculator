@@ -119,9 +119,9 @@ antigravity/
 
 ## Installation & Setup
 
-1. **Unzip the Project & Open Terminal**:
-   - Unzip the downloaded project archive into your desired folder.
-   - Open **Git Bash** (or PowerShell / Terminal / Command Prompt) and navigate into the unzipped project folder:
+1. **Clone or Download ZIP and Unzip**:
+   - Clone the repository or download the ZIP archive and unzip it into your desired folder.
+   - Open your terminal (Git Bash, PowerShell, or Command Prompt) and navigate into the project directory:
      ```bash
      cd antigravity
      ```
